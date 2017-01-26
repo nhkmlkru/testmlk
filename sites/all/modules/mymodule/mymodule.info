@@ -6,4 +6,3 @@ version = "7.x-1.00"
 core = "7.x"
 project = "my_module"
 datestamp = "1430999922"
-
