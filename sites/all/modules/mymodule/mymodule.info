@@ -1,0 +1,9 @@
+name = My module
+description = My temporary module.
+core = 7.x
+
+version = "7.x-1.00"
+core = "7.x"
+project = "my_module"
+datestamp = "1430999922"
+
